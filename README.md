@@ -3,11 +3,11 @@
 <p lign="center">Me gusta la <b>programacion y el diseño web</b>, :smiley:y me sigo preparando para pronto conseguir un empleo y dedicarme a esta area.:pray:</p>
 <h3 align="center">:point_right:Mi correo es: jeancarlosaviles.3@gmail.com</h3>
 
-![gif_programacion](https://user-images.githubusercontent.com/112536381/187793627-20e880cf-75df-489d-af58-5bbcfb474e4c.gif)
+![gif-programacion](https://user-images.githubusercontent.com/112536381/187793627-20e880cf-75df-489d-af58-5bbcfb474e4c.gif)
 
 <h3 align="left">Conéctate conmigo: </h3>
 <p align="left">
-<a href="[](https://www.linkedin.com/in/jean-carlos-48354819a/)" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/jean-carlos-48354819a" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jean-carlos-48354819a/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/jean-carlos-48354819a" height="30" width="40" /></a>
 </p>
 
 <h3 align="left"> Lenguajes y herramientas:</h3>
